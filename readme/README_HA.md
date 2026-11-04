@@ -1,6 +1,6 @@
 # Xender
 
-[English](../README.md) • [Français](./readme/README_FR.md) • [Española](./readme/README_ES.md) • [عربي](./readme/README_AR.md) • [Português](./readme/README_PT.md) • [हिंदी](./readme/README_HI.md) • [bahasa Indonesia](./readme/README_ID.md) • [አማርኛ](./readme/README_AM.md) • [Kiswahili](./readme/README_SW.md) • [ગુજરાતી](./readme/README_GU.md) • [မြန်မာစာ](./readme/README_MY.md) • [فارسی](./readme/README_FA.md) • [Azərbaycan dili](./readme/README_AZ.md) • هَرْشٜن هَوْس • [繁體中文](./readme/README_ZH.md)
+[English](../README.md) • [Français](./README_FR.md) • [Española](./README_ES.md) • [عربي](./README_AR.md) • [Português](./README_PT.md) • [हिंदी](./README_HI.md) • [bahasa Indonesia](./README_ID.md) • [አማርኛ](./README_AM.md) • [Kiswahili](./README_SW.md) • [ગુજરાતી](./README_GU.md) • [မြန်မာစာ](./README_MY.md) • [فارسی](./README_FA.md) • [Azərbaycan dili](./README_AZ.md) • هَرْشٜن هَوْس • [繁體中文](./README_ZH.md)
 
 <img src="../assets/socialpreview.png" alt="main" height="320" />
 
